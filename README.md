@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://github.com/andeersonluiz/cookiva/assets/42013276/a32e72da-a1eb-48b1-87f3-ed6d9996f38a">
 </p>
-Cookiva é um aplicativo onde os usuários podem adicionar suas próprias receitas, explorar criações de outras pessoas e buscar e compartilhar receitas com base nos ingredientes disponíveis em casa. O aplicativo está disponivel no Google Play (https://play.google.com/store/apps/details?id=com.owly.cookiva)
+Cookiva é um aplicativo onde os usuários podem adicionar suas próprias receitas, explorar criações de outras pessoas e buscar e compartilhar receitas com base nos ingredientes disponíveis em casa.
 
 ## Tecnologias Utilizadas
 
@@ -41,4 +41,3 @@ Caso tenha alguma dúvida ou deseje entrar em contato, você pode me encontrar e
 
 - [LinkedIn] https://www.linkedin.com/in/anderson-luiz-05b485208
 - [Email] andeersonrocha1998@gmail.com
-- [Url do aplicativo] https://play.google.com/store/apps/details?id=com.owly.cookiva
