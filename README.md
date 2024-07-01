@@ -3,6 +3,7 @@
 <p align="center">
 <img src="https://github.com/andeersonluiz/cookiva/assets/42013276/a32e72da-a1eb-48b1-87f3-ed6d9996f38a">
 </p>
+<p>Código-fonte do projeto: https://github.com/andeersonluiz/tudo_em_casa_receitas.git </p>  
 Cookiva é um aplicativo onde os usuários podem adicionar suas próprias receitas, explorar criações de outras pessoas e buscar e compartilhar receitas com base nos ingredientes disponíveis em casa.
 
 ## Tecnologias Utilizadas
